@@ -1,0 +1,7 @@
+.idea
+.eggs
+Local.testsettings
+.DS_Store
+**/bin
+**/obj
+TestResults
